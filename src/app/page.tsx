@@ -161,7 +161,7 @@ function Services() {
               used for the past six years.
             </ListItem>
             <ListItem title="Custom content management">
-              At Studio we understand the importance of having a robust and
+              At Zenzync we understand the importance of having a robust and
               customised CMS. That’s why we run all of our client projects out
               of a single, enormous Joomla instance.
             </ListItem>
@@ -174,7 +174,7 @@ function Services() {
 
 export const metadata: Metadata = {
   description:
-    'We are a development studio working at the intersection of design and technology.',
+    'We are a development Zenzync working at the intersection of design and technology.',
 }
 
 export default async function Home() {
@@ -185,12 +185,17 @@ export default async function Home() {
       <Container className="mt-24 sm:mt-32 md:mt-56">
         <FadeIn className="max-w-3xl">
           <h1 className="font-display text-5xl font-medium tracking-tight text-neutral-950 [text-wrap:balance] sm:text-7xl">
-            Award-winning development studio based in Denmark.
+            Comprehensive End-to-End SaaS Development
           </h1>
           <p className="mt-6 text-xl text-neutral-600">
-            We are a development studio working at the intersection of design
-            and technology. It’s a really busy intersection though — a lot of
-            our staff have been involved in hit and runs.
+            Welcome to your comprehensive solution for web and mobile
+            development. At the core of the tech world, we offer a seamless
+            journey from innovative UI/UX design to sophisticated coding,
+            turning your digital visions into reality. Our approach combines
+            deep industry insights and the latest technologies to deliver
+            personalized, effective solutions. We simplify the complexities of
+            digital development, ensuring your project's success from start to
+            finish.
           </p>
         </FadeIn>
       </Container>
@@ -203,7 +208,7 @@ export default async function Home() {
         className="mt-24 sm:mt-32 lg:mt-40"
         client={{ name: 'Phobia', logo: logoPhobiaDark }}
       >
-        The team at Studio went above and beyond with our onboarding, even
+        The team at Zenzync went above and beyond with our onboarding, even
         finding a way to access the user’s microphone without triggering one of
         those annoying permission dialogs.
       </Testimonial>
